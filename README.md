@@ -30,5 +30,5 @@ _Eines usades:_
 
 ### Autor
 
-Marcel Paulí
-Martí Puig
+* Marcel Paulí
+* Martí Puig
